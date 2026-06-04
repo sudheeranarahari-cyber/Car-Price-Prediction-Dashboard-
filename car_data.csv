@@ -1,0 +1,4 @@
+df = pd.read_csv("car data.csv")
+
+# Show first rows
+df.head()
